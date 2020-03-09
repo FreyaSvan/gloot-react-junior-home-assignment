@@ -37,7 +37,7 @@ let games = [
 
 /* IMPLEMENTATION DETAILS */
 
-/* Return a list of all gmes
+/* Return a list of all games
  * Example: localhost:3000/game
  */
 function getGames(req, res) {
